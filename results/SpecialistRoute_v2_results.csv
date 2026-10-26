@@ -1,0 +1,85 @@
+section,item,metric,value,unit,sd,ci_low,ci_high,n,split,notes
+pipeline,single model (5 seeds),"end-to-end accuracy, all images",72.8,%,1.57,70.85,74.74,236,test,"mean over seeds 42,123,2024,779,1027; t-interval"
+pipeline,5-seed ensemble,"end-to-end accuracy, all images",75.42,%,,69.92,80.51,236,test,"178/236; percentile bootstrap over images; hard routing, no TTA"
+pipeline,single model (5 seeds),"end-to-end accuracy, 216 original images",76.02,%,1.8,73.78,78.26,216,test,
+pipeline,5-seed ensemble,"end-to-end accuracy, 216 original images",78.7,%,,,,216,test,
+pipeline,single model (5 seeds),"end-to-end accuracy, 20 restored images",38.0,%,5.7,30.92,45.08,20,test,
+pipeline,5-seed ensemble,"end-to-end accuracy, 20 restored images",40.0,%,,,,20,test,
+pipeline,single model (5 seeds),"routing accuracy, 216 original images",94.63,%,0.84,93.59,95.67,216,test,
+pipeline,5-seed ensemble,"routing accuracy, all images",94.49,%,,,,236,test,
+pipeline per seed,seed 42,"end-to-end accuracy, all images",74.58,%,,,,236,test,
+pipeline per seed,seed 42,"end-to-end accuracy, 216 original images",77.78,%,,,,216,test,
+pipeline per seed,seed 42,"end-to-end accuracy, 20 restored images",40,%,,,,20,test,
+pipeline per seed,seed 42,"routing accuracy, 216 original images",95.37,%,,,,216,test,
+pipeline per seed,seed 123,"end-to-end accuracy, all images",72.03,%,,,,236,test,
+pipeline per seed,seed 123,"end-to-end accuracy, 216 original images",75.93,%,,,,216,test,
+pipeline per seed,seed 123,"end-to-end accuracy, 20 restored images",30,%,,,,20,test,
+pipeline per seed,seed 123,"routing accuracy, 216 original images",93.98,%,,,,216,test,
+pipeline per seed,seed 2024,"end-to-end accuracy, all images",70.76,%,,,,236,test,
+pipeline per seed,seed 2024,"end-to-end accuracy, 216 original images",73.15,%,,,,216,test,
+pipeline per seed,seed 2024,"end-to-end accuracy, 20 restored images",45,%,,,,20,test,
+pipeline per seed,seed 2024,"routing accuracy, 216 original images",93.52,%,,,,216,test,
+pipeline per seed,seed 779,"end-to-end accuracy, all images",72.46,%,,,,236,test,
+pipeline per seed,seed 779,"end-to-end accuracy, 216 original images",75.93,%,,,,216,test,
+pipeline per seed,seed 779,"end-to-end accuracy, 20 restored images",35,%,,,,20,test,
+pipeline per seed,seed 779,"routing accuracy, 216 original images",94.91,%,,,,216,test,
+pipeline per seed,seed 1027,"end-to-end accuracy, all images",74.15,%,,,,236,test,
+pipeline per seed,seed 1027,"end-to-end accuracy, 216 original images",77.31,%,,,,216,test,
+pipeline per seed,seed 1027,"end-to-end accuracy, 20 restored images",40,%,,,,20,test,
+pipeline per seed,seed 1027,"routing accuracy, 216 original images",95.37,%,,,,216,test,
+component,Classifier (router),test accuracy (perfect routing),93.81,%,0.77,,,236,test,ConvNeXt-Large; 5 seeds
+label quality,Classifier (router),frozen-probe out-of-fold accuracy,94.31,%,,,,,train,flagged training images: 37 (2.0%)
+component,Apple,test accuracy (perfect routing),88.97,%,1.54,,,29,test,ConvNeXt-Large; 5 seeds
+label quality,Apple,frozen-probe out-of-fold accuracy,83.33,%,,,,,train,flagged training images: 17 (8.3%)
+component,Bell pepper,test accuracy (perfect routing),80.0,%,7.89,,,17,test,ConvNeXt-Base; 5 seeds
+label quality,Bell pepper,frozen-probe out-of-fold accuracy,85.87,%,,,,,train,flagged training images: 6 (6.5%)
+component,Corn,test accuracy (perfect routing),75.38,%,4.39,,,26,test,ConvNeXt-Base; 5 seeds
+label quality,Corn,frozen-probe out-of-fold accuracy,77.74,%,,,,,train,flagged training images: 41 (14.0%)
+component,Potato,test accuracy (perfect routing),70.0,%,12.02,,,16,test,ConvNeXt-Base; 5 seeds
+label quality,Potato,frozen-probe out-of-fold accuracy,65.84,%,,,,,train,flagged training images: 41 (25.5%)
+component,Tomato,test accuracy (perfect routing),56.52,%,1.02,,,69,test,ConvNeXt-Large; 5 seeds
+label quality,Tomato,frozen-probe out-of-fold accuracy,64.92,%,,,,,train,flagged training images: 134 (26.0%)
+component,Grape,test accuracy (perfect routing),99.0,%,2.24,,,20,test,ConvNeXt-Base; 5 seeds
+label quality,Grape,frozen-probe out-of-fold accuracy,97.8,%,,,,,train,flagged training images: 0 (0%)
+component,Rest,test accuracy (perfect routing),91.86,%,1.42,,,59,test,ConvNeXt-Large; 5 seeds
+label quality,Rest,frozen-probe out-of-fold accuracy,97.6,%,,,,,train,flagged training images: 0 (0%)
+ensemble per species,Tomato,routing accuracy,95.65,%,,,,69,test,66/69 routed correctly
+ensemble per species,Tomato,end-to-end accuracy,56.52,%,,,,69,test,39/69 correct
+ensemble per species,Rest,routing accuracy,93.22,%,,,,59,test,55/59 routed correctly
+ensemble per species,Rest,end-to-end accuracy,89.83,%,,,,59,test,53/59 correct
+ensemble per species,Apple,routing accuracy,96.55,%,,,,29,test,28/29 routed correctly
+ensemble per species,Apple,end-to-end accuracy,86.21,%,,,,29,test,25/29 correct
+ensemble per species,Corn,routing accuracy,100.0,%,,,,26,test,26/26 routed correctly
+ensemble per species,Corn,end-to-end accuracy,80.77,%,,,,26,test,21/26 correct
+ensemble per species,Grape,routing accuracy,100.0,%,,,,20,test,20/20 routed correctly
+ensemble per species,Grape,end-to-end accuracy,100.0,%,,,,20,test,20/20 correct
+ensemble per species,Bell pepper,routing accuracy,94.12,%,,,,17,test,16/17 routed correctly
+ensemble per species,Bell pepper,end-to-end accuracy,70.59,%,,,,17,test,12/17 correct
+ensemble per species,Potato,routing accuracy,75.0,%,,,,16,test,12/16 routed correctly
+ensemble per species,Potato,end-to-end accuracy,50.0,%,,,,16,test,8/16 correct
+v1 to v2,v1 protocol,end-to-end accuracy,84.27,%,,,,216,test,checkpoints selected on test; superseded
+v1 to v2,"v2 protocol, 216 original images",end-to-end accuracy,76.02,%,1.8,,,216,test,-8.25 pp attributable to methodology
+v1 to v2,"v2 protocol, all 236 images",end-to-end accuracy,72.8,%,1.57,,,236,test,-3.22 pp attributable to the 20 restored images
+ensemble variants,"TTA no, hard routing",single-seed mean accuracy,77.99,%,,,,209,val,
+ensemble variants,"TTA no, hard routing",5-seed ensemble accuracy,80.86,%,,,,209,val,169/209; chosen
+ensemble variants,"TTA no, hard routing",5-seed ensemble routing accuracy,93.3,%,,,,209,val,
+ensemble variants,"TTA no, soft routing",single-seed mean accuracy,78.09,%,,,,209,val,
+ensemble variants,"TTA no, soft routing",5-seed ensemble accuracy,81.34,%,,,,209,val,170/209
+ensemble variants,"TTA no, soft routing",5-seed ensemble routing accuracy,93.3,%,,,,209,val,
+ensemble variants,"TTA flip, hard routing",single-seed mean accuracy,78.09,%,,,,209,val,
+ensemble variants,"TTA flip, hard routing",5-seed ensemble accuracy,80.86,%,,,,209,val,169/209
+ensemble variants,"TTA flip, hard routing",5-seed ensemble routing accuracy,92.34,%,,,,209,val,
+ensemble variants,"TTA flip, soft routing",single-seed mean accuracy,77.8,%,,,,209,val,
+ensemble variants,"TTA flip, soft routing",5-seed ensemble accuracy,81.34,%,,,,209,val,170/209
+ensemble variants,"TTA flip, soft routing",5-seed ensemble routing accuracy,92.34,%,,,,209,val,
+ensemble size,1 seed(s),mean accuracy over all subsets,77.99,%,,,,209,val,
+ensemble size,1 seed(s),mean accuracy over all subsets,72.8,%,,,,236,test,
+ensemble size,2 seed(s),mean accuracy over all subsets,79.38,%,,,,209,val,
+ensemble size,2 seed(s),mean accuracy over all subsets,74.92,%,,,,236,test,
+ensemble size,3 seed(s),mean accuracy over all subsets,80.05,%,,,,209,val,
+ensemble size,3 seed(s),mean accuracy over all subsets,75.34,%,,,,236,test,
+ensemble size,4 seed(s),mean accuracy over all subsets,80.48,%,,,,209,val,
+ensemble size,4 seed(s),mean accuracy over all subsets,75.93,%,,,,236,test,
+ensemble size,5 seed(s),mean accuracy over all subsets,80.86,%,,,,209,val,
+ensemble size,5 seed(s),mean accuracy over all subsets,75.42,%,,,,236,test,
+literature,El Karch et al. 2026,accuracy,76.97,%,1.48,,,236,test,"official split, held-out validation, 5 seeds; directly comparable"

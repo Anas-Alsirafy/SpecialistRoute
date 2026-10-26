@@ -1,0 +1,27 @@
+# Data, models and experiment outputs (too large / not redistributed)
+Datasets/
+Experiments/
+Models/
+plantdoc_local/
+*.keras
+*.h5
+*.npz
+*.xlsx
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+tf_env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.pem

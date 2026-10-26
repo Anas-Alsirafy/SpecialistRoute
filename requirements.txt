@@ -1,0 +1,14 @@
+# Versions were not pinned during the project; pin them with `pip freeze` on the working environment.
+tensorflow
+keras-cv
+numpy
+pandas
+scipy
+scikit-learn
+opencv-python
+pillow
+imagehash
+cleanlab
+matplotlib
+seaborn
+openpyxl
