@@ -125,6 +125,10 @@ SpecialistRoute/
 │   └── SpecialistRoute_v2_results.csv # every reported v2 number, one row per value
 ├── docs/handover/                     # 9 handover documents (PDF): guide, setup, data, configs,
 │                                      # experiments, results, known issues, future work, code reference
+├── experiments/student_poc/           # ongoing: teacher -> student data-difficulty study (Kaggle)
+│   ├── kaggle_runner.ipynb            # one job per Kaggle commit; results pushed back here
+│   ├── README.md                      # setup, run order, GPU budget, decision rule
+│   └── results/                       # judges, flags, student results (test sealed until decided)
 ├── archive/
 │   └── PlantDoc_Archive_Tools.ipynb   # retired v1 cells, reference only
 ├── requirements.txt
@@ -247,13 +251,15 @@ report_final([42, 123, 2024, 779, 1027], tta=False, routing="hard")   # test, on
 - **Potato uses ConvNeXt-Base,** not the original EfficientNet-B0 Noisy Student, whose weights do not load under Keras 3.
 - **Presets were carried over from v1,** where configurations were compared on test, so they keep a small amount of that optimism.
 - **Load model inputs with TensorFlow, never PIL.** PIL's bicubic resize changed 13–18 test predictions.
+- **Look-alike pairs:** all 70 reviewed near-duplicate pairs were confirmed duplicates (`y`) and removed, so "0 look-alike pairs grouped" in the fold analyses is correct, not a bug.
 - **Validation sets are small** (10–59 images per specialist), so one image can move a validation result by several points.
 
 ---
 
 ## Roadmap
 
-- [ ] Verify fine-tuning on saved checkpoints; add two-stage training if needed
+- [ ] **In progress:** teacher → student data-difficulty study on Kaggle — see [`experiments/student_poc/`](experiments/student_poc/)
+- [ ] Verify fine-tuning on saved checkpoints (two-stage training is implemented in the Kaggle runner)
 - [ ] Flat 27-class baseline under the same protocol (5 seeds + ensemble)
 - [ ] Blind test-set audit (correct / mislabelled / uninformative) with a second rater
 - [ ] Failure-case figure of images every seed misclassifies

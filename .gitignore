@@ -25,3 +25,6 @@ Thumbs.db
 # Secrets
 .env
 *.pem
+
+# student PoC results are small and must be committed (overrides *.npz above)
+!experiments/student_poc/results/**/*.npz
