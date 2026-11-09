@@ -73,7 +73,7 @@ Jobs skip work whose results are already in the repo. Re-running a finished job 
 | # | Job | GPU time (P100, rough) | Why |
 |---|---|---|---|
 | 0 | `selftest` | 3 min | Environment check |
-| 1 | `student r1 A_all seed 42` | 2.5–4 h | **Calibration**: must land within 0.8536 ± 0.03 |
+| 1 | `student r1 A_all seed 42` | 4.2 h (T4, 300 epochs) | **Calibration — DONE 2026-11-06: 0.8465, 41/57, epoch 132 → PASS** |
 | 2–6 | `judge r1 fold 0` … `fold 4` | 15–30 min each | Out-of-fold judges |
 | 7 | `flags r1` | 2 min | cleanlab flags (expect ~25–60 flagged) |
 | 8 | `probe` | 10–15 min | Needed by E_hybrid only |
@@ -106,6 +106,10 @@ Round 1 judges never really fine-tuned (the Keras 3 `FineTuneCallback` issue: se
 Batch size is 16 so the trainable ConvNeXt-Base fits in 16 GB.
 
 Jobs are the same with `"round": "r2"`: judges 0–4, `flags r2`, then C and R students. A_all and the probe are shared with round 1. Run round 2 only after round 1 is decided.
+
+## Epoch budget (decided 2026-11-09, before any student result)
+
+The calibration run peaked at epoch 132 (AUC teachers: 76–179), so every student run from now on uses **250 epochs** (`STUDENT_EPOCHS` in cell 2), about 3.5 h on a T4. Selection is by minimum val loss, so no result that peaks before 250 changes.
 
 ## Decision rule (pre-registered; also in cell 2)
 
