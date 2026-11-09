@@ -1,0 +1,517 @@
+rel,true_class,fold,judge_pred,p_pred,p_given,label_quality,label_issue
+Tomato Early blight leaf/Tomato Early blight leaf (11).jpg,Tomato Early blight leaf,0,Tomato Septoria leaf spot,0.7601235199579993,0.057846961862223184,0.057846961862223184,True
+Tomato Early blight leaf/Tomato Early blight leaf (19).jpg,Tomato Early blight leaf,0,Tomato Early blight leaf,0.4773840619550573,0.4773840619550573,0.4773840619550573,False
+Tomato Early blight leaf/Tomato Early blight leaf (23).jpg,Tomato Early blight leaf,0,Tomato leaf late blight,0.5583428865950264,0.339088798791602,0.339088798791602,False
+Tomato Early blight leaf/Tomato Early blight leaf (33).jpg,Tomato Early blight leaf,0,Tomato Early blight leaf,0.27934136856654024,0.27934136856654024,0.27934136856654024,False
+Tomato Early blight leaf/Tomato Early blight leaf (37).jpg,Tomato Early blight leaf,0,Tomato leaf late blight,0.5872097794632685,0.12009133028151427,0.12009133028151427,True
+Tomato Early blight leaf/Tomato Early blight leaf (44).jpg,Tomato Early blight leaf,0,Tomato Early blight leaf,0.3646561674941136,0.3646561674941136,0.3646561674941136,False
+Tomato Early blight leaf/Tomato Early blight leaf (49).jpg,Tomato Early blight leaf,0,Tomato Septoria leaf spot,0.5369877249206662,0.1674903342546355,0.1674903342546355,True
+Tomato Early blight leaf/Tomato Early blight leaf (59).jpg,Tomato Early blight leaf,0,Tomato Septoria leaf spot,0.7378863666513247,0.09084235845072303,0.09084235845072303,True
+Tomato Early blight leaf/Tomato Early blight leaf (66).jpg,Tomato Early blight leaf,0,Tomato Septoria leaf spot,0.31828393715874054,0.021349990329285425,0.021349990329285425,True
+Tomato Early blight leaf/Tomato Early blight leaf (69).jpg,Tomato Early blight leaf,0,Tomato leaf late blight,0.5592427961749212,0.10586222473162955,0.10586222473162955,True
+Tomato Early blight leaf/Tomato Early blight leaf (8).jpg,Tomato Early blight leaf,0,Tomato Early blight leaf,0.4328647065209437,0.4328647065209437,0.4328647065209437,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (102).jpg,Tomato Septoria leaf spot,0,Tomato leaf bacterial spot,0.4547203464257704,0.13739898749664803,0.13739898749664803,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (112).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.6546489954634469,0.6546489954634469,0.6546489954634469,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (117).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.3947614602338596,0.3947614602338596,0.3947614602338596,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (123).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.7389295579683675,0.7389295579683675,0.7389295579683675,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (13).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.4448806486334112,0.4448806486334112,0.4448806486334112,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (14).jpg,Tomato Septoria leaf spot,0,Tomato leaf,0.40018709451866236,0.3199299132790002,0.3199299132790002,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (20).jpg,Tomato Septoria leaf spot,0,Tomato leaf bacterial spot,0.37790032939687124,0.13153573772657112,0.13153573772657112,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (23).jpg,Tomato Septoria leaf spot,0,Tomato Early blight leaf,0.3281654715729042,0.3033059835610507,0.3033059835610507,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (27).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.5733731250206928,0.5733731250206928,0.5733731250206928,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (35).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.3694403078210835,0.3694403078210835,0.3694403078210835,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (44).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.5722190401984383,0.5722190401984383,0.5722190401984383,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (5).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.7749587329303936,0.7749587329303936,0.7749587329303936,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (50).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.7037372774263639,0.7037372774263639,0.7037372774263639,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (58).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.40754605857826987,0.40754605857826987,0.40754605857826987,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (69).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.7104907272903975,0.7104907272903975,0.7104907272903975,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (72).jpg,Tomato Septoria leaf spot,0,Tomato leaf bacterial spot,0.4893762091509219,0.33756541655641537,0.33756541655641537,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (80).jpg,Tomato Septoria leaf spot,0,Tomato Early blight leaf,0.3815905476152225,0.13397503428526442,0.13397503428526442,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (82).jpg,Tomato Septoria leaf spot,0,Tomato Early blight leaf,0.4415304450310397,0.4221929408507411,0.4221929408507411,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (89).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.3772818603634141,0.3772818603634141,0.3772818603634141,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (93).jpg,Tomato Septoria leaf spot,0,Tomato Septoria leaf spot,0.9254262568566922,0.9254262568566922,0.9254262568566922,False
+Tomato leaf/Tomato leaf (1).jpg,Tomato leaf,0,Tomato leaf,0.5038583823084438,0.5038583823084438,0.5038583823084438,False
+Tomato leaf/Tomato leaf (15).jpg,Tomato leaf,0,Tomato leaf bacterial spot,0.3061857166479208,0.07441985468529436,0.07441985468529436,True
+Tomato leaf/Tomato leaf (19).jpg,Tomato leaf,0,Tomato leaf,0.971319688336277,0.971319688336277,0.971319688336277,False
+Tomato leaf/Tomato leaf (24).jpg,Tomato leaf,0,Tomato leaf bacterial spot,0.27836824448592334,0.18685855632706092,0.18685855632706092,True
+Tomato leaf/Tomato leaf (29).jpg,Tomato leaf,0,Tomato leaf,0.9466887473140295,0.9466887473140295,0.9466887473140295,False
+Tomato leaf/Tomato leaf (34).jpg,Tomato leaf,0,Tomato leaf,0.6769241463679175,0.6769241463679175,0.6769241463679175,False
+Tomato leaf/Tomato leaf (4).jpg,Tomato leaf,0,Tomato leaf,0.3781905486367291,0.3781905486367291,0.3781905486367291,False
+Tomato leaf/Tomato leaf (43).jpg,Tomato leaf,0,Tomato leaf,0.8769766889471104,0.8769766889471104,0.8769766889471104,False
+Tomato leaf/Tomato leaf (49).jpg,Tomato leaf,0,Tomato leaf,0.9622810615322221,0.9622810615322221,0.9622810615322221,False
+Tomato leaf/Tomato leaf (8).jpg,Tomato leaf,0,Tomato leaf,0.43523671088122956,0.43523671088122956,0.43523671088122956,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (13).jpg,Tomato leaf bacterial spot,0,Tomato Septoria leaf spot,0.45933641407701364,0.21490813150283322,0.21490813150283322,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (22).jpg,Tomato leaf bacterial spot,0,Tomato Septoria leaf spot,0.3284994646511066,0.25817337511957916,0.25817337511957916,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (3).jpg,Tomato leaf bacterial spot,0,Tomato Septoria leaf spot,0.6737718440966062,0.2936134574876141,0.2936134574876141,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (31).jpg,Tomato leaf bacterial spot,0,Tomato Septoria leaf spot,0.42662220795680167,0.24884675459474237,0.24884675459474237,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (34).jpg,Tomato leaf bacterial spot,0,Tomato Septoria leaf spot,0.8549412187238946,0.06788368555355301,0.06788368555355301,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (49).jpg,Tomato leaf bacterial spot,0,Tomato leaf bacterial spot,0.3790859677129091,0.3790859677129091,0.3790859677129091,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (52).jpg,Tomato leaf bacterial spot,0,Tomato Septoria leaf spot,0.4476551951214925,0.1913042639584656,0.1913042639584656,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (56).jpg,Tomato leaf bacterial spot,0,Tomato leaf,0.2821907625521148,0.12333146161094222,0.12333146161094222,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (68).jpg,Tomato leaf bacterial spot,0,Tomato Septoria leaf spot,0.605135075308484,0.12019912741818671,0.12019912741818671,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (7).jpg,Tomato leaf bacterial spot,0,Tomato Septoria leaf spot,0.5584097148374976,0.14580981993305248,0.14580981993305248,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (74).jpg,Tomato leaf bacterial spot,0,Tomato Septoria leaf spot,0.48860071087402174,0.1263366587843625,0.1263366587843625,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (80).jpg,Tomato leaf bacterial spot,0,Tomato Septoria leaf spot,0.4514655437211279,0.11646208825363152,0.11646208825363152,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (83).jpg,Tomato leaf bacterial spot,0,Tomato Septoria leaf spot,0.2744229517705128,0.26261497326537886,0.26261497326537886,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (90).jpg,Tomato leaf bacterial spot,0,Tomato leaf late blight,0.5290336007913262,0.07296016805529579,0.07296016805529579,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (98).jpg,Tomato leaf bacterial spot,0,Tomato leaf,0.6647433242354795,0.016233759895935066,0.016233759895935066,True
+Tomato leaf late blight/Tomato leaf late blight (101).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.4900613439494477,0.4900613439494477,0.4900613439494477,False
+Tomato leaf late blight/Tomato leaf late blight (18).jpg,Tomato leaf late blight,0,Tomato Early blight leaf,0.6734482076205913,0.17469540306510126,0.17469540306510126,True
+Tomato leaf late blight/Tomato leaf late blight (23).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.7422817869233863,0.7422817869233863,0.7422817869233863,False
+Tomato leaf late blight/Tomato leaf late blight (28).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.8430140546793153,0.8430140546793153,0.8430140546793153,False
+Tomato leaf late blight/Tomato leaf late blight (30).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.8151913517594703,0.8151913517594703,0.8151913517594703,False
+Tomato leaf late blight/Tomato leaf late blight (38).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.596801064094567,0.596801064094567,0.596801064094567,False
+Tomato leaf late blight/Tomato leaf late blight (43).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.6955015124691682,0.6955015124691682,0.6955015124691682,False
+Tomato leaf late blight/Tomato leaf late blight (5).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.6588662794441916,0.6588662794441916,0.6588662794441916,False
+Tomato leaf late blight/Tomato leaf late blight (56).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.2598453164100647,0.2598453164100647,0.2598453164100647,False
+Tomato leaf late blight/Tomato leaf late blight (61).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.8049565951985026,0.8049565951985026,0.8049565951985026,False
+Tomato leaf late blight/Tomato leaf late blight (65).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.3908867851051162,0.3908867851051162,0.3908867851051162,False
+Tomato leaf late blight/Tomato leaf late blight (74).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.7377453018676116,0.7377453018676116,0.7377453018676116,False
+Tomato leaf late blight/Tomato leaf late blight (78).jpg,Tomato leaf late blight,0,Tomato mold leaf,0.35982113791771264,0.1656213389637122,0.1656213389637122,True
+Tomato leaf late blight/Tomato leaf late blight (85).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.7175311262420323,0.7175311262420323,0.7175311262420323,False
+Tomato leaf late blight/Tomato leaf late blight (92).jpg,Tomato leaf late blight,0,Tomato leaf late blight,0.3665006374067532,0.3665006374067532,0.3665006374067532,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (10).jpg,Tomato leaf mosaic virus,0,Tomato leaf,0.568092243912585,0.09556902484801486,0.09556902484801486,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (17).jpg,Tomato leaf mosaic virus,0,Tomato leaf late blight,0.21868887543678284,0.06928856670856476,0.06928856670856476,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (20).jpg,Tomato leaf mosaic virus,0,Tomato leaf,0.43269345484881844,0.16922229978379627,0.16922229978379627,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (25).jpg,Tomato leaf mosaic virus,0,Tomato leaf late blight,0.22507124887699728,0.0677127607049857,0.0677127607049857,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (33).jpg,Tomato leaf mosaic virus,0,Tomato leaf late blight,0.5312214602594004,0.04833923751810866,0.04833923751810866,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (38).jpg,Tomato leaf mosaic virus,0,Tomato leaf,0.5434485911783611,0.1521209842988162,0.1521209842988162,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (41).jpg,Tomato leaf mosaic virus,0,Tomato leaf mosaic virus,0.48722405497495636,0.48722405497495636,0.48722405497495636,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (5).jpg,Tomato leaf mosaic virus,0,Tomato Septoria leaf spot,0.2223197180345707,0.143281367732559,0.143281367732559,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (11).jpg,Tomato leaf yellow virus,0,Tomato leaf yellow virus,0.3871207657848541,0.3871207657848541,0.3871207657848541,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (15).jpg,Tomato leaf yellow virus,0,Tomato leaf yellow virus,0.3483297604694164,0.3483297604694164,0.3483297604694164,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (21).jpg,Tomato leaf yellow virus,0,Tomato leaf,0.23917803480149477,0.22158319046922462,0.22158319046922462,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (27).jpg,Tomato leaf yellow virus,0,Tomato leaf yellow virus,0.5847827636950568,0.5847827636950568,0.5847827636950568,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (32).jpg,Tomato leaf yellow virus,0,Tomato leaf,0.5521529121493821,0.14073200025799124,0.14073200025799124,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (44).jpg,Tomato leaf yellow virus,0,Tomato Septoria leaf spot,0.48378440280624346,0.09756581994116857,0.09756581994116857,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (47).jpg,Tomato leaf yellow virus,0,Tomato leaf yellow virus,0.586210948953313,0.586210948953313,0.586210948953313,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (55).jpg,Tomato leaf yellow virus,0,Tomato leaf yellow virus,0.21594666668593884,0.21594666668593884,0.21594666668593884,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (58).jpg,Tomato leaf yellow virus,0,Tomato leaf yellow virus,0.6821937358901012,0.6821937358901012,0.6821937358901012,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (64).jpg,Tomato leaf yellow virus,0,Tomato leaf yellow virus,0.6152631606171395,0.6152631606171395,0.6152631606171395,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (9).jpg,Tomato leaf yellow virus,0,Tomato leaf yellow virus,0.858937921548205,0.858937921548205,0.858937921548205,False
+Tomato mold leaf/Tomato mold leaf (13).jpg,Tomato mold leaf,0,Tomato Septoria leaf spot,0.4833200961969811,0.0383737466926453,0.0383737466926453,True
+Tomato mold leaf/Tomato mold leaf (2).jpg,Tomato mold leaf,0,Tomato Septoria leaf spot,0.29198307302006227,0.1290090255315108,0.1290090255315108,True
+Tomato mold leaf/Tomato mold leaf (24).jpg,Tomato mold leaf,0,Tomato mold leaf,0.47833304349954686,0.47833304349954686,0.47833304349954686,False
+Tomato mold leaf/Tomato mold leaf (28).jpg,Tomato mold leaf,0,Tomato leaf late blight,0.5173641597439098,0.059074474396540955,0.059074474396540955,True
+Tomato mold leaf/Tomato mold leaf (36).jpg,Tomato mold leaf,0,Tomato leaf late blight,0.4642811810729895,0.0546475734582605,0.0546475734582605,True
+Tomato mold leaf/Tomato mold leaf (43).jpg,Tomato mold leaf,0,Tomato mold leaf,0.40568628581468946,0.40568628581468946,0.40568628581468946,False
+Tomato mold leaf/Tomato mold leaf (46).jpg,Tomato mold leaf,0,Tomato mold leaf,0.38159774557322784,0.38159774557322784,0.38159774557322784,False
+Tomato mold leaf/Tomato mold leaf (54).jpg,Tomato mold leaf,0,Tomato mold leaf,0.602479796277867,0.602479796277867,0.602479796277867,False
+Tomato mold leaf/Tomato mold leaf (6).jpg,Tomato mold leaf,0,Tomato leaf bacterial spot,0.3756104497829201,0.2256864332210403,0.2256864332210403,True
+Tomato mold leaf/Tomato mold leaf (62).jpg,Tomato mold leaf,0,Tomato Septoria leaf spot,0.5392541520350529,0.05399237804454694,0.05399237804454694,True
+Tomato mold leaf/Tomato mold leaf (63).jpg,Tomato mold leaf,0,Tomato mold leaf,0.4474901454821572,0.4474901454821572,0.4474901454821572,False
+Tomato mold leaf/Tomato mold leaf (76).jpg,Tomato mold leaf,0,Tomato mold leaf,0.4112608761434322,0.4112608761434322,0.4112608761434322,False
+Tomato mold leaf/Tomato mold leaf (8).jpg,Tomato mold leaf,0,Tomato Septoria leaf spot,0.45398478495642636,0.10426018794898678,0.10426018794898678,True
+Tomato Early blight leaf/Tomato Early blight leaf (13).jpg,Tomato Early blight leaf,1,Tomato mold leaf,0.2492052605405254,0.10208655110714379,0.10208655110714379,False
+Tomato Early blight leaf/Tomato Early blight leaf (2).jpg,Tomato Early blight leaf,1,Tomato Septoria leaf spot,0.47092644016112517,0.12766540222908215,0.12766540222908215,True
+Tomato Early blight leaf/Tomato Early blight leaf (24).jpg,Tomato Early blight leaf,1,Tomato Septoria leaf spot,0.48531738262612406,0.1420091996575417,0.1420091996575417,True
+Tomato Early blight leaf/Tomato Early blight leaf (32).jpg,Tomato Early blight leaf,1,Tomato leaf late blight,0.5143339553707338,0.2569268901799569,0.2569268901799569,True
+Tomato Early blight leaf/Tomato Early blight leaf (40).jpg,Tomato Early blight leaf,1,Tomato Early blight leaf,0.45164681206541835,0.45164681206541835,0.45164681206541835,False
+Tomato Early blight leaf/Tomato Early blight leaf (45).jpg,Tomato Early blight leaf,1,Tomato leaf bacterial spot,0.32777501587329966,0.10678086897237304,0.10678086897237304,True
+Tomato Early blight leaf/Tomato Early blight leaf (51).jpg,Tomato Early blight leaf,1,Tomato leaf late blight,0.5557486383854487,0.045793309551887346,0.045793309551887346,True
+Tomato Early blight leaf/Tomato Early blight leaf (60).jpg,Tomato Early blight leaf,1,Tomato leaf late blight,0.3947441659709976,0.031142771889387327,0.031142771889387327,True
+Tomato Early blight leaf/Tomato Early blight leaf (64).jpg,Tomato Early blight leaf,1,Tomato Septoria leaf spot,0.6598844485178672,0.1559153338042951,0.1559153338042951,True
+Tomato Early blight leaf/Tomato Early blight leaf (71).jpg,Tomato Early blight leaf,1,Tomato Septoria leaf spot,0.4606038417779625,0.14995751064191593,0.14995751064191593,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (10).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.7467578223544018,0.7467578223544018,0.7467578223544018,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (105).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.7567495190462161,0.7567495190462161,0.7567495190462161,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (110).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.6801976323990047,0.6801976323990047,0.6801976323990047,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (121).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.34692943734289744,0.34692943734289744,0.34692943734289744,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (126).jpg,Tomato Septoria leaf spot,1,Tomato leaf,0.3064602412466409,0.2526106020331015,0.2526106020331015,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (129).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.6929706196311225,0.6929706196311225,0.6929706196311225,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (130).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.5244559489352718,0.5244559489352718,0.5244559489352718,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (24).jpg,Tomato Septoria leaf spot,1,Tomato leaf late blight,0.30201831459999084,0.10652854293584824,0.10652854293584824,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (25).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.5545082605703434,0.5545082605703434,0.5545082605703434,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (32).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.6538031585577859,0.6538031585577859,0.6538031585577859,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (38).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.4327654069206561,0.4327654069206561,0.4327654069206561,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (41).jpg,Tomato Septoria leaf spot,1,Tomato Early blight leaf,0.37889626498693885,0.23589034301637093,0.23589034301637093,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (52).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.7179759613782696,0.7179759613782696,0.7179759613782696,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (57).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.4823014718629512,0.4823014718629512,0.4823014718629512,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (63).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.7194064225235323,0.7194064225235323,0.7194064225235323,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (66).jpg,Tomato Septoria leaf spot,1,Tomato mold leaf,0.3912059406780315,0.3044713766772162,0.3044713766772162,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (73).jpg,Tomato Septoria leaf spot,1,Tomato Early blight leaf,0.4332976845488676,0.2644823137512685,0.2644823137512685,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (78).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.5926781719076994,0.5926781719076994,0.5926781719076994,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (81).jpg,Tomato Septoria leaf spot,1,Tomato Septoria leaf spot,0.3650648028455518,0.3650648028455518,0.3650648028455518,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (9).jpg,Tomato Septoria leaf spot,1,Tomato Early blight leaf,0.3477181618913535,0.32477585645753004,0.32477585645753004,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (94).jpg,Tomato Septoria leaf spot,1,Tomato Early blight leaf,0.660358946408534,0.13217205919249697,0.13217205919249697,True
+Tomato leaf/Tomato leaf (14).jpg,Tomato leaf,1,Tomato leaf,0.28434889343441344,0.28434889343441344,0.28434889343441344,False
+Tomato leaf/Tomato leaf (17).jpg,Tomato leaf,1,Tomato leaf bacterial spot,0.25268504400082,0.15540652208635988,0.15540652208635988,True
+Tomato leaf/Tomato leaf (2).jpg,Tomato leaf,1,Tomato leaf mosaic virus,0.3470981522529767,0.0815518448219253,0.0815518448219253,True
+Tomato leaf/Tomato leaf (25).jpg,Tomato leaf,1,Tomato leaf,0.8929962577531025,0.8929962577531025,0.8929962577531025,False
+Tomato leaf/Tomato leaf (31).jpg,Tomato leaf,1,Tomato leaf,0.6736433214244443,0.6736433214244443,0.6736433214244443,False
+Tomato leaf/Tomato leaf (36).jpg,Tomato leaf,1,Tomato leaf,0.3452580397539454,0.3452580397539454,0.3452580397539454,False
+Tomato leaf/Tomato leaf (42).jpg,Tomato leaf,1,Tomato leaf,0.9348199050074787,0.9348199050074787,0.9348199050074787,False
+Tomato leaf/Tomato leaf (44).jpg,Tomato leaf,1,Tomato leaf,0.8105749552043966,0.8105749552043966,0.8105749552043966,False
+Tomato leaf/Tomato leaf (53).jpg,Tomato leaf,1,Tomato leaf,0.9444118940471425,0.9444118940471425,0.9444118940471425,False
+Tomato leaf/Tomato leaf (9).jpg,Tomato leaf,1,Tomato leaf,0.7410914081009803,0.7410914081009803,0.7410914081009803,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (14).jpg,Tomato leaf bacterial spot,1,Tomato Septoria leaf spot,0.40857983204187187,0.39651647850011307,0.39651647850011307,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (21).jpg,Tomato leaf bacterial spot,1,Tomato leaf bacterial spot,0.1761684645489662,0.1761684645489662,0.1761684645489662,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (30).jpg,Tomato leaf bacterial spot,1,Tomato leaf late blight,0.5855649800365956,0.09556432961370515,0.09556432961370515,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (33).jpg,Tomato leaf bacterial spot,1,Tomato leaf late blight,0.6637135605015279,0.0813896117440739,0.0813896117440739,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (39).jpg,Tomato leaf bacterial spot,1,Tomato leaf bacterial spot,0.42210169889553745,0.42210169889553745,0.42210169889553745,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (5).jpg,Tomato leaf bacterial spot,1,Tomato Septoria leaf spot,0.7897822871613918,0.1717119071105717,0.1717119071105717,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (57).jpg,Tomato leaf bacterial spot,1,Tomato mold leaf,0.4597271880379642,0.12524702876742774,0.12524702876742774,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (59).jpg,Tomato leaf bacterial spot,1,Tomato mold leaf,0.36320834675415703,0.06369687498180429,0.06369687498180429,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (64).jpg,Tomato leaf bacterial spot,1,Tomato mold leaf,0.3512091718802179,0.18358801666944372,0.18358801666944372,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (72).jpg,Tomato leaf bacterial spot,1,Tomato leaf bacterial spot,0.30515512539860673,0.30515512539860673,0.30515512539860673,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (75).jpg,Tomato leaf bacterial spot,1,Tomato Early blight leaf,0.6047888647111935,0.16432269464583504,0.16432269464583504,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (8).jpg,Tomato leaf bacterial spot,1,Tomato Septoria leaf spot,0.2729425563751573,0.26578391897832576,0.26578391897832576,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (85).jpg,Tomato leaf bacterial spot,1,Tomato Septoria leaf spot,0.7995435349085426,0.10140921607985046,0.10140921607985046,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (91).jpg,Tomato leaf bacterial spot,1,Tomato leaf,0.34466026902416164,0.11268735477676843,0.11268735477676843,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (96).jpg,Tomato leaf bacterial spot,1,Tomato leaf bacterial spot,0.5592661346324245,0.5592661346324245,0.5592661346324245,False
+Tomato leaf late blight/Tomato leaf late blight (11).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.3181579351768282,0.3181579351768282,0.3181579351768282,False
+Tomato leaf late blight/Tomato leaf late blight (13).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.39922549422516274,0.39922549422516274,0.39922549422516274,False
+Tomato leaf late blight/Tomato leaf late blight (25).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.9077067259077126,0.9077067259077126,0.9077067259077126,False
+Tomato leaf late blight/Tomato leaf late blight (3).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.6332336492769632,0.6332336492769632,0.6332336492769632,False
+Tomato leaf late blight/Tomato leaf late blight (35).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.9848305137860957,0.9848305137860957,0.9848305137860957,False
+Tomato leaf late blight/Tomato leaf late blight (4).jpg,Tomato leaf late blight,1,Tomato leaf bacterial spot,0.3448572305885238,0.18549086831689737,0.18549086831689737,True
+Tomato leaf late blight/Tomato leaf late blight (45).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.6399892327193507,0.6399892327193507,0.6399892327193507,False
+Tomato leaf late blight/Tomato leaf late blight (52).jpg,Tomato leaf late blight,1,Tomato mold leaf,0.27769145886770374,0.19699488947158472,0.19699488947158472,True
+Tomato leaf late blight/Tomato leaf late blight (57).jpg,Tomato leaf late blight,1,Tomato leaf,0.603555959076091,0.1245554275363205,0.1245554275363205,True
+Tomato leaf late blight/Tomato leaf late blight (63).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.8310253674427274,0.8310253674427274,0.8310253674427274,False
+Tomato leaf late blight/Tomato leaf late blight (72).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.9160135714626599,0.9160135714626599,0.9160135714626599,False
+Tomato leaf late blight/Tomato leaf late blight (76).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.3535763545592724,0.3535763545592724,0.3535763545592724,False
+Tomato leaf late blight/Tomato leaf late blight (79).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.7434595587289865,0.7434595587289865,0.7434595587289865,False
+Tomato leaf late blight/Tomato leaf late blight (86).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.6640081510768631,0.6640081510768631,0.6640081510768631,False
+Tomato leaf late blight/Tomato leaf late blight (94).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.4517807683710622,0.4517807683710622,0.4517807683710622,False
+Tomato leaf late blight/Tomato leaf late blight (98).jpg,Tomato leaf late blight,1,Tomato leaf late blight,0.811172864433164,0.811172864433164,0.811172864433164,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (2).jpg,Tomato leaf mosaic virus,1,Tomato leaf,0.3418339814382343,0.08987809784619583,0.08987809784619583,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (21).jpg,Tomato leaf mosaic virus,1,Tomato leaf yellow virus,0.4163040770258299,0.3851706938612756,0.3851706938612756,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (26).jpg,Tomato leaf mosaic virus,1,Tomato Septoria leaf spot,0.3016852103901024,0.07688891049515843,0.07688891049515843,True
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (32).jpg,Tomato leaf mosaic virus,1,Tomato leaf,0.4650656624237603,0.13666483887159114,0.13666483887159114,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (35).jpg,Tomato leaf mosaic virus,1,Tomato leaf,0.43051396336987646,0.24845784057983086,0.24845784057983086,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (43).jpg,Tomato leaf mosaic virus,1,Tomato leaf late blight,0.41028160162479876,0.03391208152407468,0.03391208152407468,True
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (7).jpg,Tomato leaf mosaic virus,1,Tomato mold leaf,0.38573087267620904,0.01294527329734308,0.01294527329734308,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (10).jpg,Tomato leaf yellow virus,1,Tomato Septoria leaf spot,0.578886785399661,0.024805034518054332,0.024805034518054332,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (17).jpg,Tomato leaf yellow virus,1,Tomato leaf,0.23776017483711503,0.2123144747661721,0.2123144747661721,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (22).jpg,Tomato leaf yellow virus,1,Tomato leaf yellow virus,0.5446582834779535,0.5446582834779535,0.5446582834779535,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (29).jpg,Tomato leaf yellow virus,1,Tomato leaf yellow virus,0.9080176793054425,0.9080176793054425,0.9080176793054425,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (33).jpg,Tomato leaf yellow virus,1,Tomato leaf yellow virus,0.7742469635243652,0.7742469635243652,0.7742469635243652,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (39).jpg,Tomato leaf yellow virus,1,Tomato leaf yellow virus,0.6761419615675238,0.6761419615675238,0.6761419615675238,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (50).jpg,Tomato leaf yellow virus,1,Tomato leaf yellow virus,0.7125333772023495,0.7125333772023495,0.7125333772023495,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (56).jpg,Tomato leaf yellow virus,1,Tomato leaf yellow virus,0.26963508430460564,0.26963508430460564,0.26963508430460564,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (60).jpg,Tomato leaf yellow virus,1,Tomato leaf yellow virus,0.7836081842998457,0.7836081842998457,0.7836081842998457,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (69).jpg,Tomato leaf yellow virus,1,Tomato leaf mosaic virus,0.4105673714852664,0.15555039350396743,0.15555039350396743,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (8).jpg,Tomato leaf yellow virus,1,Tomato leaf yellow virus,0.38807474610599296,0.38807474610599296,0.38807474610599296,False
+Tomato mold leaf/Tomato mold leaf (14).jpg,Tomato mold leaf,1,Tomato mold leaf,0.6889784827168106,0.6889784827168106,0.6889784827168106,False
+Tomato mold leaf/Tomato mold leaf (16).jpg,Tomato mold leaf,1,Tomato Early blight leaf,0.48809935105699526,0.1436173064260273,0.1436173064260273,True
+Tomato mold leaf/Tomato mold leaf (25).jpg,Tomato mold leaf,1,Tomato mold leaf,0.34582279163070895,0.34582279163070895,0.34582279163070895,False
+Tomato mold leaf/Tomato mold leaf (31).jpg,Tomato mold leaf,1,Tomato mold leaf,0.5123379912433064,0.5123379912433064,0.5123379912433064,False
+Tomato mold leaf/Tomato mold leaf (39).jpg,Tomato mold leaf,1,Tomato leaf late blight,0.40355501858437004,0.35209445661653377,0.35209445661653377,False
+Tomato mold leaf/Tomato mold leaf (40).jpg,Tomato mold leaf,1,Tomato mold leaf,0.5693791137995313,0.5693791137995313,0.5693791137995313,False
+Tomato mold leaf/Tomato mold leaf (47).jpg,Tomato mold leaf,1,Tomato mold leaf,0.8456419727468267,0.8456419727468267,0.8456419727468267,False
+Tomato mold leaf/Tomato mold leaf (5).jpg,Tomato mold leaf,1,Tomato leaf bacterial spot,0.2970759327910083,0.25763673070141546,0.25763673070141546,False
+Tomato mold leaf/Tomato mold leaf (59).jpg,Tomato mold leaf,1,Tomato leaf,0.47213033777283436,0.14281589664431363,0.14281589664431363,True
+Tomato mold leaf/Tomato mold leaf (64).jpg,Tomato mold leaf,1,Tomato leaf late blight,0.40345396060426825,0.23828614343874124,0.23828614343874124,False
+Tomato mold leaf/Tomato mold leaf (7).jpg,Tomato mold leaf,1,Tomato leaf mosaic virus,0.3110948841602806,0.1390197891241657,0.1390197891241657,True
+Tomato mold leaf/Tomato mold leaf (73).jpg,Tomato mold leaf,1,Tomato Septoria leaf spot,0.3350127907329098,0.2448739835956452,0.2448739835956452,False
+Tomato mold leaf/Tomato mold leaf (77).jpg,Tomato mold leaf,1,Tomato Septoria leaf spot,0.6426052522950462,0.08015835374770709,0.08015835374770709,True
+Tomato mold leaf/Tomato mold leaf (9).jpg,Tomato mold leaf,1,Tomato mold leaf,0.50222122341809,0.50222122341809,0.50222122341809,False
+Tomato Early blight leaf/Tomato Early blight leaf (15).jpg,Tomato Early blight leaf,2,Tomato leaf late blight,0.3075068936870529,0.13077058092907937,0.13077058092907937,False
+Tomato Early blight leaf/Tomato Early blight leaf (20).jpg,Tomato Early blight leaf,2,Tomato mold leaf,0.6108217245068603,0.07121093577818101,0.07121093577818101,True
+Tomato Early blight leaf/Tomato Early blight leaf (26).jpg,Tomato Early blight leaf,2,Tomato Septoria leaf spot,0.36565034355650433,0.3372544235166542,0.3372544235166542,False
+Tomato Early blight leaf/Tomato Early blight leaf (35).jpg,Tomato Early blight leaf,2,Tomato Early blight leaf,0.44511173456014963,0.44511173456014963,0.44511173456014963,False
+Tomato Early blight leaf/Tomato Early blight leaf (41).jpg,Tomato Early blight leaf,2,Tomato Early blight leaf,0.4432072242377574,0.4432072242377574,0.4432072242377574,False
+Tomato Early blight leaf/Tomato Early blight leaf (42).jpg,Tomato Early blight leaf,2,Tomato Septoria leaf spot,0.30871667775137246,0.2729382454582645,0.2729382454582645,False
+Tomato Early blight leaf/Tomato Early blight leaf (50).jpg,Tomato Early blight leaf,2,Tomato Septoria leaf spot,0.3035338372805094,0.2549895174004551,0.2549895174004551,False
+Tomato Early blight leaf/Tomato Early blight leaf (61).jpg,Tomato Early blight leaf,2,Tomato leaf bacterial spot,0.45841130571587824,0.31629037827598827,0.31629037827598827,True
+Tomato Early blight leaf/Tomato Early blight leaf (70).jpg,Tomato Early blight leaf,2,Tomato Early blight leaf,0.43643851310390447,0.43643851310390447,0.43643851310390447,False
+Tomato Early blight leaf/Tomato Early blight leaf (73).jpg,Tomato Early blight leaf,2,Tomato Early blight leaf,0.548867938602431,0.548867938602431,0.548867938602431,False
+Tomato Early blight leaf/Tomato Early blight leaf (9).jpg,Tomato Early blight leaf,2,Tomato Early blight leaf,0.5957040659140855,0.5957040659140855,0.5957040659140855,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (108).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.3687149072378084,0.3687149072378084,0.3687149072378084,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (116).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.28342838335887904,0.28342838335887904,0.28342838335887904,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (118).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.4268049484358056,0.4268049484358056,0.4268049484358056,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (124).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.4318043332216541,0.4318043332216541,0.4318043332216541,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (132).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.3586813142126079,0.3586813142126079,0.3586813142126079,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (16).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.8063321566951359,0.8063321566951359,0.8063321566951359,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (18).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.40636337181891663,0.40636337181891663,0.40636337181891663,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (28).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.6099791969902603,0.6099791969902603,0.6099791969902603,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (34).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.3950866758823395,0.3950866758823395,0.3950866758823395,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (39).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.4175795805281023,0.4175795805281023,0.4175795805281023,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (42).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.6580700770139775,0.6580700770139775,0.6580700770139775,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (51).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.7971319652746577,0.7971319652746577,0.7971319652746577,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (6).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.7606752702574195,0.7606752702574195,0.7606752702574195,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (60).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.41688778841164786,0.41688778841164786,0.41688778841164786,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (67).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.5962998136316701,0.5962998136316701,0.5962998136316701,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (77).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.7062202868793813,0.7062202868793813,0.7062202868793813,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (79).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.7231630982652527,0.7231630982652527,0.7231630982652527,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (86).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.6341199089849022,0.6341199089849022,0.6341199089849022,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (91).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.4523885595573689,0.4523885595573689,0.4523885595573689,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (97).jpg,Tomato Septoria leaf spot,2,Tomato Septoria leaf spot,0.30946337041040484,0.30946337041040484,0.30946337041040484,False
+Tomato leaf/Tomato leaf (12).jpg,Tomato leaf,2,Tomato leaf,0.6948313628949153,0.6948313628949153,0.6948313628949153,False
+Tomato leaf/Tomato leaf (18).jpg,Tomato leaf,2,Tomato leaf,0.3557505855930422,0.3557505855930422,0.3557505855930422,False
+Tomato leaf/Tomato leaf (20).jpg,Tomato leaf,2,Tomato leaf,0.9300273436493576,0.9300273436493576,0.9300273436493576,False
+Tomato leaf/Tomato leaf (26).jpg,Tomato leaf,2,Tomato leaf,0.5845515371489037,0.5845515371489037,0.5845515371489037,False
+Tomato leaf/Tomato leaf (35).jpg,Tomato leaf,2,Tomato leaf,0.3629835122913216,0.3629835122913216,0.3629835122913216,False
+Tomato leaf/Tomato leaf (40).jpg,Tomato leaf,2,Tomato leaf,0.9121150724820297,0.9121150724820297,0.9121150724820297,False
+Tomato leaf/Tomato leaf (45).jpg,Tomato leaf,2,Tomato leaf,0.85238817238245,0.85238817238245,0.85238817238245,False
+Tomato leaf/Tomato leaf (48).jpg,Tomato leaf,2,Tomato leaf,0.9797030822036442,0.9797030822036442,0.9797030822036442,False
+Tomato leaf/Tomato leaf (51).jpg,Tomato leaf,2,Tomato leaf,0.9730391496505352,0.9730391496505352,0.9730391496505352,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (10).jpg,Tomato leaf bacterial spot,2,Tomato Septoria leaf spot,0.43475656377980004,0.22453022809761405,0.22453022809761405,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (19).jpg,Tomato leaf bacterial spot,2,Tomato Septoria leaf spot,0.8840530672180605,0.052223169243678556,0.052223169243678556,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (25).jpg,Tomato leaf bacterial spot,2,Tomato leaf bacterial spot,0.3341554026659167,0.3341554026659167,0.3341554026659167,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (29).jpg,Tomato leaf bacterial spot,2,Tomato leaf late blight,0.3921617002537236,0.14742064592714932,0.14742064592714932,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (37).jpg,Tomato leaf bacterial spot,2,Tomato Septoria leaf spot,0.5332822978536477,0.2348670328698766,0.2348670328698766,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (41).jpg,Tomato leaf bacterial spot,2,Tomato Septoria leaf spot,0.8841471406503159,0.08053666111332614,0.08053666111332614,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (47).jpg,Tomato leaf bacterial spot,2,Tomato Septoria leaf spot,0.43952755728369863,0.09369225503361163,0.09369225503361163,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (54).jpg,Tomato leaf bacterial spot,2,Tomato leaf bacterial spot,0.3375369172062498,0.3375369172062498,0.3375369172062498,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (61).jpg,Tomato leaf bacterial spot,2,Tomato Septoria leaf spot,0.30887312847648296,0.28290821175680353,0.28290821175680353,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (62).jpg,Tomato leaf bacterial spot,2,Tomato Septoria leaf spot,0.23770762515081081,0.22235172552113772,0.22235172552113772,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (73).jpg,Tomato leaf bacterial spot,2,Tomato Septoria leaf spot,0.32262629571022744,0.19315171421646807,0.19315171421646807,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (76).jpg,Tomato leaf bacterial spot,2,Tomato Septoria leaf spot,0.9037165333529766,0.05208507747611407,0.05208507747611407,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (81).jpg,Tomato leaf bacterial spot,2,Tomato mold leaf,0.5303026935029274,0.12288649151313134,0.12288649151313134,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (88).jpg,Tomato leaf bacterial spot,2,Tomato Septoria leaf spot,0.48364508152008057,0.3449985384941101,0.3449985384941101,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (93).jpg,Tomato leaf bacterial spot,2,Tomato mold leaf,0.3029992662248935,0.12124879985695257,0.12124879985695257,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (97).jpg,Tomato leaf bacterial spot,2,Tomato Septoria leaf spot,0.7221166277982267,0.056218883222947325,0.056218883222947325,True
+Tomato leaf late blight/Tomato leaf late blight (12).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.466822770848046,0.466822770848046,0.466822770848046,False
+Tomato leaf late blight/Tomato leaf late blight (17).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.35195333158917724,0.35195333158917724,0.35195333158917724,False
+Tomato leaf late blight/Tomato leaf late blight (27).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.7028679972090683,0.7028679972090683,0.7028679972090683,False
+Tomato leaf late blight/Tomato leaf late blight (32).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.8917760344830085,0.8917760344830085,0.8917760344830085,False
+Tomato leaf late blight/Tomato leaf late blight (36).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.5127192025023877,0.5127192025023877,0.5127192025023877,False
+Tomato leaf late blight/Tomato leaf late blight (41).jpg,Tomato leaf late blight,2,Tomato Early blight leaf,0.37149933049734557,0.34790927236510305,0.34790927236510305,True
+Tomato leaf late blight/Tomato leaf late blight (47).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.9654664087238722,0.9654664087238722,0.9654664087238722,False
+Tomato leaf late blight/Tomato leaf late blight (54).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.8461827022164119,0.8461827022164119,0.8461827022164119,False
+Tomato leaf late blight/Tomato leaf late blight (55).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.36701611778188103,0.36701611778188103,0.36701611778188103,False
+Tomato leaf late blight/Tomato leaf late blight (64).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.6143861627573902,0.6143861627573902,0.6143861627573902,False
+Tomato leaf late blight/Tomato leaf late blight (69).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.4851511233754252,0.4851511233754252,0.4851511233754252,False
+Tomato leaf late blight/Tomato leaf late blight (77).jpg,Tomato leaf late blight,2,Tomato Septoria leaf spot,0.4000602308697207,0.15749519526696548,0.15749519526696548,True
+Tomato leaf late blight/Tomato leaf late blight (80).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.4636905988074059,0.4636905988074059,0.4636905988074059,False
+Tomato leaf late blight/Tomato leaf late blight (88).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.8607815227750101,0.8607815227750101,0.8607815227750101,False
+Tomato leaf late blight/Tomato leaf late blight (93).jpg,Tomato leaf late blight,2,Tomato leaf late blight,0.6984909641948566,0.6984909641948566,0.6984909641948566,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (13).jpg,Tomato leaf mosaic virus,2,Tomato leaf yellow virus,0.2701751867668689,0.19111505008403173,0.19111505008403173,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (14).jpg,Tomato leaf mosaic virus,2,Tomato leaf yellow virus,0.4115739689954506,0.17007219490467412,0.17007219490467412,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (22).jpg,Tomato leaf mosaic virus,2,Tomato leaf yellow virus,0.33098450333903034,0.3236443701420393,0.3236443701420393,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (27).jpg,Tomato leaf mosaic virus,2,Tomato leaf yellow virus,0.40378506420537125,0.22267483962852871,0.22267483962852871,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (36).jpg,Tomato leaf mosaic virus,2,Tomato leaf bacterial spot,0.34694195246061993,0.11344175188633103,0.11344175188633103,True
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (37).jpg,Tomato leaf mosaic virus,2,Tomato leaf,0.6004883952202308,0.07631660628275617,0.07631660628275617,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (39).jpg,Tomato leaf mosaic virus,2,Tomato leaf mosaic virus,0.36061775415675523,0.36061775415675523,0.36061775415675523,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (8).jpg,Tomato leaf mosaic virus,2,Tomato leaf bacterial spot,0.46109139747511074,0.0383666715086748,0.0383666715086748,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (13).jpg,Tomato leaf yellow virus,2,Tomato leaf yellow virus,0.668227062978598,0.668227062978598,0.668227062978598,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (2).jpg,Tomato leaf yellow virus,2,Tomato leaf yellow virus,0.37535757639243295,0.37535757639243295,0.37535757639243295,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (28).jpg,Tomato leaf yellow virus,2,Tomato leaf yellow virus,0.7204767566240871,0.7204767566240871,0.7204767566240871,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (31).jpg,Tomato leaf yellow virus,2,Tomato leaf yellow virus,0.520999280982927,0.520999280982927,0.520999280982927,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (38).jpg,Tomato leaf yellow virus,2,Tomato leaf yellow virus,0.48915774723494976,0.48915774723494976,0.48915774723494976,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (4).jpg,Tomato leaf yellow virus,2,Tomato leaf yellow virus,0.5344389964498414,0.5344389964498414,0.5344389964498414,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (53).jpg,Tomato leaf yellow virus,2,Tomato leaf yellow virus,0.2870842218399048,0.2870842218399048,0.2870842218399048,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (57).jpg,Tomato leaf yellow virus,2,Tomato leaf yellow virus,0.5541602912398398,0.5541602912398398,0.5541602912398398,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (61).jpg,Tomato leaf yellow virus,2,Tomato leaf yellow virus,0.6122767463378455,0.6122767463378455,0.6122767463378455,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (68).jpg,Tomato leaf yellow virus,2,Tomato leaf yellow virus,0.6243633372038725,0.6243633372038725,0.6243633372038725,False
+Tomato mold leaf/Tomato mold leaf (1).jpg,Tomato mold leaf,2,Tomato leaf bacterial spot,0.3302308719745474,0.19537386894085837,0.19537386894085837,True
+Tomato mold leaf/Tomato mold leaf (15).jpg,Tomato mold leaf,2,Tomato leaf bacterial spot,0.2780619548723942,0.22005298631241085,0.22005298631241085,False
+Tomato mold leaf/Tomato mold leaf (23).jpg,Tomato mold leaf,2,Tomato leaf yellow virus,0.8685488961736689,0.028079925948360573,0.028079925948360573,True
+Tomato mold leaf/Tomato mold leaf (29).jpg,Tomato mold leaf,2,Tomato leaf late blight,0.4023095473933682,0.16874558412331084,0.16874558412331084,False
+Tomato mold leaf/Tomato mold leaf (3).jpg,Tomato mold leaf,2,Tomato leaf late blight,0.3114366230448367,0.2791061398767809,0.2791061398767809,False
+Tomato mold leaf/Tomato mold leaf (4).jpg,Tomato mold leaf,2,Tomato Septoria leaf spot,0.27766047195099586,0.2496990079388501,0.2496990079388501,False
+Tomato mold leaf/Tomato mold leaf (41).jpg,Tomato mold leaf,2,Tomato mold leaf,0.7076317676199039,0.7076317676199039,0.7076317676199039,False
+Tomato mold leaf/Tomato mold leaf (49).jpg,Tomato mold leaf,2,Tomato mold leaf,0.8081208437378673,0.8081208437378673,0.8081208437378673,False
+Tomato mold leaf/Tomato mold leaf (53).jpg,Tomato mold leaf,2,Tomato leaf yellow virus,0.3891861918811145,0.0874196786457396,0.0874196786457396,True
+Tomato mold leaf/Tomato mold leaf (56).jpg,Tomato mold leaf,2,Tomato mold leaf,0.49852167274434217,0.49852167274434217,0.49852167274434217,False
+Tomato mold leaf/Tomato mold leaf (66).jpg,Tomato mold leaf,2,Tomato leaf bacterial spot,0.3256479076322055,0.04857972074267616,0.04857972074267616,True
+Tomato mold leaf/Tomato mold leaf (71).jpg,Tomato mold leaf,2,Tomato mold leaf,0.45927429712497775,0.45927429712497775,0.45927429712497775,False
+Tomato mold leaf/Tomato mold leaf (79).jpg,Tomato mold leaf,2,Tomato mold leaf,0.47163593995331193,0.47163593995331193,0.47163593995331193,False
+Tomato mold leaf/Tomato mold leaf (80).jpg,Tomato mold leaf,2,Tomato mold leaf,0.49480320666982514,0.49480320666982514,0.49480320666982514,False
+Tomato Early blight leaf/Tomato Early blight leaf (16).jpg,Tomato Early blight leaf,3,Tomato Septoria leaf spot,0.7953981153709831,0.09673740705779064,0.09673740705779064,True
+Tomato Early blight leaf/Tomato Early blight leaf (21).jpg,Tomato Early blight leaf,3,Tomato Early blight leaf,0.2429328328105483,0.2429328328105483,0.2429328328105483,False
+Tomato Early blight leaf/Tomato Early blight leaf (3).jpg,Tomato Early blight leaf,3,Tomato Septoria leaf spot,0.6455815771152902,0.10376395081242662,0.10376395081242662,True
+Tomato Early blight leaf/Tomato Early blight leaf (36).jpg,Tomato Early blight leaf,3,Tomato Septoria leaf spot,0.5752894402891513,0.14350082280930926,0.14350082280930926,True
+Tomato Early blight leaf/Tomato Early blight leaf (4).jpg,Tomato Early blight leaf,3,Tomato Septoria leaf spot,0.33971147101620713,0.3079975668032616,0.3079975668032616,False
+Tomato Early blight leaf/Tomato Early blight leaf (47).jpg,Tomato Early blight leaf,3,Tomato leaf late blight,0.33450130988464866,0.1514914260454903,0.1514914260454903,False
+Tomato Early blight leaf/Tomato Early blight leaf (54).jpg,Tomato Early blight leaf,3,Tomato leaf bacterial spot,0.35477347296998346,0.3247154457114137,0.3247154457114137,False
+Tomato Early blight leaf/Tomato Early blight leaf (6).jpg,Tomato Early blight leaf,3,Tomato mold leaf,0.4163491392452028,0.2098109107057207,0.2098109107057207,True
+Tomato Early blight leaf/Tomato Early blight leaf (68).jpg,Tomato Early blight leaf,3,Tomato Septoria leaf spot,0.38031103091333296,0.17153940591635994,0.17153940591635994,False
+Tomato Early blight leaf/Tomato Early blight leaf (74).jpg,Tomato Early blight leaf,3,Tomato Septoria leaf spot,0.41080903203506985,0.17834008881343355,0.17834008881343355,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (104).jpg,Tomato Septoria leaf spot,3,Tomato mold leaf,0.27928746578954056,0.16530229643888164,0.16530229643888164,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (106).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.33220494350389485,0.33220494350389485,0.33220494350389485,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (11).jpg,Tomato Septoria leaf spot,3,Tomato leaf,0.3559233506479485,0.25819050977166175,0.25819050977166175,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (122).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.6752187881076989,0.6752187881076989,0.6752187881076989,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (128).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.8027838735836776,0.8027838735836776,0.8027838735836776,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (135).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.47454723447633745,0.47454723447633745,0.47454723447633745,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (17).jpg,Tomato Septoria leaf spot,3,Tomato Early blight leaf,0.2904278504301913,0.1701981224745368,0.1701981224745368,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (21).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.6529207962606847,0.6529207962606847,0.6529207962606847,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (26).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.7419294412545872,0.7419294412545872,0.7419294412545872,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (33).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.35000781835957584,0.35000781835957584,0.35000781835957584,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (37).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.5070599738869639,0.5070599738869639,0.5070599738869639,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (47).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.6529215803942409,0.6529215803942409,0.6529215803942409,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (53).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.6883193475504575,0.6883193475504575,0.6883193475504575,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (56).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.6772438546335307,0.6772438546335307,0.6772438546335307,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (65).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.4408020932789253,0.4408020932789253,0.4408020932789253,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (70).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.4440240214033437,0.4440240214033437,0.4440240214033437,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (76).jpg,Tomato Septoria leaf spot,3,Tomato leaf bacterial spot,0.36122979519548104,0.3422212487562985,0.3422212487562985,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (8).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.6737809215726285,0.6737809215726285,0.6737809215726285,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (83).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.3544425362424594,0.3544425362424594,0.3544425362424594,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (90).jpg,Tomato Septoria leaf spot,3,Tomato Septoria leaf spot,0.5079780317969151,0.5079780317969151,0.5079780317969151,False
+Tomato leaf/Tomato leaf (10).jpg,Tomato leaf,3,Tomato leaf,0.7715701633297688,0.7715701633297688,0.7715701633297688,False
+Tomato leaf/Tomato leaf (13).jpg,Tomato leaf,3,Tomato leaf,0.3535203140124503,0.3535203140124503,0.3535203140124503,False
+Tomato leaf/Tomato leaf (16).jpg,Tomato leaf,3,Tomato leaf,0.38401523679512595,0.38401523679512595,0.38401523679512595,False
+Tomato leaf/Tomato leaf (21).jpg,Tomato leaf,3,Tomato leaf,0.9754397339493996,0.9754397339493996,0.9754397339493996,False
+Tomato leaf/Tomato leaf (27).jpg,Tomato leaf,3,Tomato leaf late blight,0.33009429536408574,0.18425173371092476,0.18425173371092476,True
+Tomato leaf/Tomato leaf (30).jpg,Tomato leaf,3,Tomato leaf,0.6459017992019653,0.6459017992019653,0.6459017992019653,False
+Tomato leaf/Tomato leaf (38).jpg,Tomato leaf,3,Tomato leaf,0.5325810650508035,0.5325810650508035,0.5325810650508035,False
+Tomato leaf/Tomato leaf (46).jpg,Tomato leaf,3,Tomato leaf,0.9848030925738984,0.9848030925738984,0.9848030925738984,False
+Tomato leaf/Tomato leaf (52).jpg,Tomato leaf,3,Tomato leaf,0.9633878208150433,0.9633878208150433,0.9633878208150433,False
+Tomato leaf/Tomato leaf (6).jpg,Tomato leaf,3,Tomato leaf,0.7122796442229467,0.7122796442229467,0.7122796442229467,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (11).jpg,Tomato leaf bacterial spot,3,Tomato leaf late blight,0.296314733861009,0.18451293538247643,0.18451293538247643,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (2).jpg,Tomato leaf bacterial spot,3,Tomato Early blight leaf,0.5523372333670946,0.14831365755434078,0.14831365755434078,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (26).jpg,Tomato leaf bacterial spot,3,Tomato Septoria leaf spot,0.5684832853134087,0.27367964014172114,0.27367964014172114,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (35).jpg,Tomato leaf bacterial spot,3,Tomato leaf bacterial spot,0.22000862739983434,0.22000862739983434,0.22000862739983434,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (38).jpg,Tomato leaf bacterial spot,3,Tomato Septoria leaf spot,0.5180131732717486,0.25373285713450916,0.25373285713450916,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (40).jpg,Tomato leaf bacterial spot,3,Tomato Septoria leaf spot,0.5511207254308119,0.24839779460468245,0.24839779460468245,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (51).jpg,Tomato leaf bacterial spot,3,Tomato leaf bacterial spot,0.3973094397145128,0.3973094397145128,0.3973094397145128,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (55).jpg,Tomato leaf bacterial spot,3,Tomato leaf bacterial spot,0.2760171181273018,0.2760171181273018,0.2760171181273018,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (60).jpg,Tomato leaf bacterial spot,3,Tomato Septoria leaf spot,0.4521696707723971,0.3767669119080359,0.3767669119080359,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (66).jpg,Tomato leaf bacterial spot,3,Tomato Septoria leaf spot,0.5673092919705506,0.18734130828726167,0.18734130828726167,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (70).jpg,Tomato leaf bacterial spot,3,Tomato Septoria leaf spot,0.4483883535399745,0.18575660034361688,0.18575660034361688,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (79).jpg,Tomato leaf bacterial spot,3,Tomato Septoria leaf spot,0.43563794381518367,0.2719020687290615,0.2719020687290615,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (82).jpg,Tomato leaf bacterial spot,3,Tomato Septoria leaf spot,0.381612768647144,0.3731740028448989,0.3731740028448989,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (87).jpg,Tomato leaf bacterial spot,3,Tomato Septoria leaf spot,0.6880736988712838,0.10181562664155064,0.10181562664155064,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (94).jpg,Tomato leaf bacterial spot,3,Tomato mold leaf,0.5896129847272821,0.09790337983172416,0.09790337983172416,True
+Tomato leaf late blight/Tomato leaf late blight (10).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.6957371921581207,0.6957371921581207,0.6957371921581207,False
+Tomato leaf late blight/Tomato leaf late blight (14).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.5460794351916983,0.5460794351916983,0.5460794351916983,False
+Tomato leaf late blight/Tomato leaf late blight (15).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.5819998662819926,0.5819998662819926,0.5819998662819926,False
+Tomato leaf late blight/Tomato leaf late blight (31).jpg,Tomato leaf late blight,3,Tomato mold leaf,0.38972944311596036,0.21433140497156533,0.21433140497156533,True
+Tomato leaf late blight/Tomato leaf late blight (33).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.45558310191495954,0.45558310191495954,0.45558310191495954,False
+Tomato leaf late blight/Tomato leaf late blight (37).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.3237314787124784,0.3237314787124784,0.3237314787124784,False
+Tomato leaf late blight/Tomato leaf late blight (42).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.45635436142977065,0.45635436142977065,0.45635436142977065,False
+Tomato leaf late blight/Tomato leaf late blight (48).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.4890005559498644,0.4890005559498644,0.4890005559498644,False
+Tomato leaf late blight/Tomato leaf late blight (50).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.48921413865702496,0.48921413865702496,0.48921413865702496,False
+Tomato leaf late blight/Tomato leaf late blight (59).jpg,Tomato leaf late blight,3,Tomato mold leaf,0.34873872865461286,0.30877229456315824,0.30877229456315824,True
+Tomato leaf late blight/Tomato leaf late blight (67).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.6564678693389312,0.6564678693389312,0.6564678693389312,False
+Tomato leaf late blight/Tomato leaf late blight (7).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.731557783739426,0.731557783739426,0.731557783739426,False
+Tomato leaf late blight/Tomato leaf late blight (75).jpg,Tomato leaf late blight,3,Tomato mold leaf,0.35302779736049095,0.26958263422516426,0.26958263422516426,True
+Tomato leaf late blight/Tomato leaf late blight (81).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.40354366361814686,0.40354366361814686,0.40354366361814686,False
+Tomato leaf late blight/Tomato leaf late blight (90).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.6544983490616753,0.6544983490616753,0.6544983490616753,False
+Tomato leaf late blight/Tomato leaf late blight (95).jpg,Tomato leaf late blight,3,Tomato leaf,0.6338437317655186,0.11616581149708129,0.11616581149708129,True
+Tomato leaf late blight/Tomato leaf late blight (97).jpg,Tomato leaf late blight,3,Tomato leaf late blight,0.4520699533396571,0.4520699533396571,0.4520699533396571,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (16).jpg,Tomato leaf mosaic virus,3,Tomato leaf yellow virus,0.33370948828998276,0.05020646824202131,0.05020646824202131,True
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (23).jpg,Tomato leaf mosaic virus,3,Tomato leaf bacterial spot,0.2820539250015373,0.1361841594922882,0.1361841594922882,True
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (3).jpg,Tomato leaf mosaic virus,3,Tomato leaf,0.31097304157711875,0.14116818764568773,0.14116818764568773,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (34).jpg,Tomato leaf mosaic virus,3,Tomato leaf yellow virus,0.48728655543482213,0.23356644221926673,0.23356644221926673,True
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (4).jpg,Tomato leaf mosaic virus,3,Tomato leaf mosaic virus,0.3881009255585122,0.3881009255585122,0.3881009255585122,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (44).jpg,Tomato leaf mosaic virus,3,Tomato mold leaf,0.4256178831819717,0.04178749490799371,0.04178749490799371,True
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (9).jpg,Tomato leaf mosaic virus,3,Tomato leaf bacterial spot,0.18955738206946687,0.11939569907426353,0.11939569907426353,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (14).jpg,Tomato leaf yellow virus,3,Tomato leaf yellow virus,0.6090214774782963,0.6090214774782963,0.6090214774782963,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (18).jpg,Tomato leaf yellow virus,3,Tomato leaf yellow virus,0.8270987406131584,0.8270987406131584,0.8270987406131584,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (25).jpg,Tomato leaf yellow virus,3,Tomato leaf mosaic virus,0.2908733996488631,0.21948299647918354,0.21948299647918354,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (30).jpg,Tomato leaf yellow virus,3,Tomato leaf yellow virus,0.6687637848256467,0.6687637848256467,0.6687637848256467,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (36).jpg,Tomato leaf yellow virus,3,Tomato leaf yellow virus,0.4751809162637646,0.4751809162637646,0.4751809162637646,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (41).jpg,Tomato leaf yellow virus,3,Tomato leaf yellow virus,0.7727192892182386,0.7727192892182386,0.7727192892182386,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (52).jpg,Tomato leaf yellow virus,3,Tomato Septoria leaf spot,0.28842562437057495,0.21840767562389374,0.21840767562389374,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (59).jpg,Tomato leaf yellow virus,3,Tomato leaf yellow virus,0.45761451042982443,0.45761451042982443,0.45761451042982443,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (62).jpg,Tomato leaf yellow virus,3,Tomato leaf yellow virus,0.7741274520961771,0.7741274520961771,0.7741274520961771,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (66).jpg,Tomato leaf yellow virus,3,Tomato leaf yellow virus,0.7747062961368176,0.7747062961368176,0.7747062961368176,False
+Tomato mold leaf/Tomato mold leaf (10).jpg,Tomato mold leaf,3,Tomato leaf,0.5146083576019792,0.22412134698835726,0.22412134698835726,False
+Tomato mold leaf/Tomato mold leaf (18).jpg,Tomato mold leaf,3,Tomato leaf late blight,0.30050081574359566,0.07400641728204521,0.07400641728204521,True
+Tomato mold leaf/Tomato mold leaf (26).jpg,Tomato mold leaf,3,Tomato mold leaf,0.3346702679692894,0.3346702679692894,0.3346702679692894,False
+Tomato mold leaf/Tomato mold leaf (30).jpg,Tomato mold leaf,3,Tomato mold leaf,0.33050554559838247,0.33050554559838247,0.33050554559838247,False
+Tomato mold leaf/Tomato mold leaf (32).jpg,Tomato mold leaf,3,Tomato leaf mosaic virus,0.49947823396454616,0.08170721147936016,0.08170721147936016,True
+Tomato mold leaf/Tomato mold leaf (35).jpg,Tomato mold leaf,3,Tomato leaf,0.35368492459000545,0.04073129852277069,0.04073129852277069,True
+Tomato mold leaf/Tomato mold leaf (44).jpg,Tomato mold leaf,3,Tomato mold leaf,0.3091172691105779,0.3091172691105779,0.3091172691105779,False
+Tomato mold leaf/Tomato mold leaf (52).jpg,Tomato mold leaf,3,Tomato mold leaf,0.44439056836443663,0.44439056836443663,0.44439056836443663,False
+Tomato mold leaf/Tomato mold leaf (55).jpg,Tomato mold leaf,3,Tomato leaf bacterial spot,0.3126637082335464,0.1752789341415326,0.1752789341415326,True
+Tomato mold leaf/Tomato mold leaf (60).jpg,Tomato mold leaf,3,Tomato mold leaf,0.591100221416915,0.591100221416915,0.591100221416915,False
+Tomato mold leaf/Tomato mold leaf (68).jpg,Tomato mold leaf,3,Tomato mold leaf,0.2569825928138003,0.2569825928138003,0.2569825928138003,False
+Tomato mold leaf/Tomato mold leaf (70).jpg,Tomato mold leaf,3,Tomato leaf late blight,0.2892390749888988,0.12825110387474722,0.12825110387474722,False
+Tomato mold leaf/Tomato mold leaf (74).jpg,Tomato mold leaf,3,Tomato leaf yellow virus,0.2761735952146634,0.12034542270455129,0.12034542270455129,False
+Tomato mold leaf/Tomato mold leaf (81).jpg,Tomato mold leaf,3,Tomato mold leaf,0.3792789267594502,0.3792789267594502,0.3792789267594502,False
+Tomato Early blight leaf/Tomato Early blight leaf (18).jpg,Tomato Early blight leaf,4,Tomato leaf late blight,0.6475500640085857,0.1552710873282239,0.1552710873282239,True
+Tomato Early blight leaf/Tomato Early blight leaf (22).jpg,Tomato Early blight leaf,4,Tomato Early blight leaf,0.4240009284545225,0.4240009284545225,0.4240009284545225,False
+Tomato Early blight leaf/Tomato Early blight leaf (28).jpg,Tomato Early blight leaf,4,Tomato leaf bacterial spot,0.2810019202343762,0.03697981243990711,0.03697981243990711,True
+Tomato Early blight leaf/Tomato Early blight leaf (31).jpg,Tomato Early blight leaf,4,Tomato Septoria leaf spot,0.4094336351862969,0.21866358928629173,0.21866358928629173,False
+Tomato Early blight leaf/Tomato Early blight leaf (43).jpg,Tomato Early blight leaf,4,Tomato Early blight leaf,0.4992598738538763,0.4992598738538763,0.4992598738538763,False
+Tomato Early blight leaf/Tomato Early blight leaf (48).jpg,Tomato Early blight leaf,4,Tomato leaf bacterial spot,0.29674759617726354,0.23898457079747532,0.23898457079747532,True
+Tomato Early blight leaf/Tomato Early blight leaf (53).jpg,Tomato Early blight leaf,4,Tomato Early blight leaf,0.4330529970439041,0.4330529970439041,0.4330529970439041,False
+Tomato Early blight leaf/Tomato Early blight leaf (62).jpg,Tomato Early blight leaf,4,Tomato Early blight leaf,0.32790863651371455,0.32790863651371455,0.32790863651371455,False
+Tomato Early blight leaf/Tomato Early blight leaf (65).jpg,Tomato Early blight leaf,4,Tomato leaf bacterial spot,0.5206508653445896,0.06092877705884233,0.06092877705884233,True
+Tomato Early blight leaf/Tomato Early blight leaf (67).jpg,Tomato Early blight leaf,4,Tomato mold leaf,0.27694189625869103,0.10788574099881316,0.10788574099881316,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (1).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.5244726732818306,0.5244726732818306,0.5244726732818306,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (107).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.3561527720742096,0.3561527720742096,0.3561527720742096,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (114).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.7762203527049125,0.7762203527049125,0.7762203527049125,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (119).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.6379371582872504,0.6379371582872504,0.6379371582872504,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (131).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.5620103579188691,0.5620103579188691,0.5620103579188691,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (133).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.6320048932799232,0.6320048932799232,0.6320048932799232,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (19).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.5802521405704377,0.5802521405704377,0.5802521405704377,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (22).jpg,Tomato Septoria leaf spot,4,Tomato leaf bacterial spot,0.3783139913539313,0.3752091257790805,0.3752091257790805,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (29).jpg,Tomato Septoria leaf spot,4,Tomato mold leaf,0.2863536684438356,0.2053334945986617,0.2053334945986617,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (30).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.6314925941617779,0.6314925941617779,0.6314925941617779,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (4).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.44818181613417846,0.44818181613417846,0.44818181613417846,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (46).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.47091064657468285,0.47091064657468285,0.47091064657468285,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (55).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.8320365099317335,0.8320365099317335,0.8320365099317335,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (61).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.2798703859396863,0.2798703859396863,0.2798703859396863,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (68).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.473201228432966,0.473201228432966,0.473201228432966,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (71).jpg,Tomato Septoria leaf spot,4,Tomato mold leaf,0.3519567681981708,0.11479547307753625,0.11479547307753625,True
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (74).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.5480011074915466,0.5480011074915466,0.5480011074915466,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (85).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.5148782714518212,0.5148782714518212,0.5148782714518212,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (87).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.5165448054082183,0.5165448054082183,0.5165448054082183,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (95).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.391505350125752,0.391505350125752,0.391505350125752,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (96).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.4590070009474624,0.4590070009474624,0.4590070009474624,False
+Tomato Septoria leaf spot/Tomato Septoria leaf spot (99).jpg,Tomato Septoria leaf spot,4,Tomato Septoria leaf spot,0.5212012474764939,0.5212012474764939,0.5212012474764939,False
+Tomato leaf/Tomato leaf (11).jpg,Tomato leaf,4,Tomato leaf,0.3609044708702827,0.3609044708702827,0.3609044708702827,False
+Tomato leaf/Tomato leaf (22).jpg,Tomato leaf,4,Tomato leaf,0.5420313634381363,0.5420313634381363,0.5420313634381363,False
+Tomato leaf/Tomato leaf (28).jpg,Tomato leaf,4,Tomato leaf,0.6218167282810875,0.6218167282810875,0.6218167282810875,False
+Tomato leaf/Tomato leaf (33).jpg,Tomato leaf,4,Tomato leaf,0.39963069855891686,0.39963069855891686,0.39963069855891686,False
+Tomato leaf/Tomato leaf (39).jpg,Tomato leaf,4,Tomato leaf,0.9544386903218611,0.9544386903218611,0.9544386903218611,False
+Tomato leaf/Tomato leaf (5).jpg,Tomato leaf,4,Tomato leaf,0.5441068187908269,0.5441068187908269,0.5441068187908269,False
+Tomato leaf/Tomato leaf (50).jpg,Tomato leaf,4,Tomato leaf,0.5273301905900909,0.5273301905900909,0.5273301905900909,False
+Tomato leaf/Tomato leaf (7).jpg,Tomato leaf,4,Tomato leaf,0.6492671267711174,0.6492671267711174,0.6492671267711174,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (12).jpg,Tomato leaf bacterial spot,4,Tomato leaf bacterial spot,0.3153909127693242,0.3153909127693242,0.3153909127693242,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (16).jpg,Tomato leaf bacterial spot,4,Tomato Septoria leaf spot,0.33504882064559693,0.2603365980162636,0.2603365980162636,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (28).jpg,Tomato leaf bacterial spot,4,Tomato leaf bacterial spot,0.485308387070476,0.485308387070476,0.485308387070476,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (36).jpg,Tomato leaf bacterial spot,4,Tomato Septoria leaf spot,0.4199703665841511,0.3223639820509117,0.3223639820509117,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (4).jpg,Tomato leaf bacterial spot,4,Tomato Early blight leaf,0.3301494087729198,0.30885499399397065,0.30885499399397065,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (46).jpg,Tomato leaf bacterial spot,4,Tomato Septoria leaf spot,0.29036760330200195,0.1356377750635147,0.1356377750635147,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (50).jpg,Tomato leaf bacterial spot,4,Tomato Early blight leaf,0.24851143551079496,0.1941242828979393,0.1941242828979393,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (58).jpg,Tomato leaf bacterial spot,4,Tomato Septoria leaf spot,0.4101441722207609,0.15768271038937928,0.15768271038937928,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (65).jpg,Tomato leaf bacterial spot,4,Tomato Septoria leaf spot,0.8462016029787331,0.0820917342337822,0.0820917342337822,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (69).jpg,Tomato leaf bacterial spot,4,Tomato Septoria leaf spot,0.5361737008181746,0.1966161130142141,0.1966161130142141,True
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (71).jpg,Tomato leaf bacterial spot,4,Tomato leaf bacterial spot,0.28973998715515287,0.28973998715515287,0.28973998715515287,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (77).jpg,Tomato leaf bacterial spot,4,Tomato leaf bacterial spot,0.28238361179731525,0.28238361179731525,0.28238361179731525,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (84).jpg,Tomato leaf bacterial spot,4,Tomato Septoria leaf spot,0.2199699397369443,0.19383124527945159,0.19383124527945159,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (9).jpg,Tomato leaf bacterial spot,4,Tomato leaf bacterial spot,0.3520970947148224,0.3520970947148224,0.3520970947148224,False
+Tomato leaf bacterial spot/Tomato leaf bacterial spot (92).jpg,Tomato leaf bacterial spot,4,Tomato Septoria leaf spot,0.2507402244789848,0.12780397844752717,0.12780397844752717,False
+Tomato leaf late blight/Tomato leaf late blight (100).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.3841116471303066,0.3841116471303066,0.3841116471303066,False
+Tomato leaf late blight/Tomato leaf late blight (16).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.7540751611358468,0.7540751611358468,0.7540751611358468,False
+Tomato leaf late blight/Tomato leaf late blight (19).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.3883105771059851,0.3883105771059851,0.3883105771059851,False
+Tomato leaf late blight/Tomato leaf late blight (29).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.5282919884854855,0.5282919884854855,0.5282919884854855,False
+Tomato leaf late blight/Tomato leaf late blight (34).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.9384712549701891,0.9384712549701891,0.9384712549701891,False
+Tomato leaf late blight/Tomato leaf late blight (40).jpg,Tomato leaf late blight,4,Tomato mold leaf,0.42152677474728095,0.2852655250205752,0.2852655250205752,True
+Tomato leaf late blight/Tomato leaf late blight (46).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.7378053460781506,0.7378053460781506,0.7378053460781506,False
+Tomato leaf late blight/Tomato leaf late blight (49).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.6624847190218641,0.6624847190218641,0.6624847190218641,False
+Tomato leaf late blight/Tomato leaf late blight (51).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.6851278313765284,0.6851278313765284,0.6851278313765284,False
+Tomato leaf late blight/Tomato leaf late blight (6).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.6043899430797773,0.6043899430797773,0.6043899430797773,False
+Tomato leaf late blight/Tomato leaf late blight (62).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.8429217879078272,0.8429217879078272,0.8429217879078272,False
+Tomato leaf late blight/Tomato leaf late blight (70).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.49131960225835,0.49131960225835,0.49131960225835,False
+Tomato leaf late blight/Tomato leaf late blight (71).jpg,Tomato leaf late blight,4,Tomato Early blight leaf,0.37303429876736766,0.3261509242711132,0.3261509242711132,True
+Tomato leaf late blight/Tomato leaf late blight (83).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.4812910258769989,0.4812910258769989,0.4812910258769989,False
+Tomato leaf late blight/Tomato leaf late blight (9).jpg,Tomato leaf late blight,4,Tomato leaf,0.23654866262627516,0.20339405574536706,0.20339405574536706,True
+Tomato leaf late blight/Tomato leaf late blight (96).jpg,Tomato leaf late blight,4,Tomato leaf late blight,0.552127909309117,0.552127909309117,0.552127909309117,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (12).jpg,Tomato leaf mosaic virus,4,Tomato mold leaf,0.5291236811497517,0.060060536583996176,0.060060536583996176,True
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (19).jpg,Tomato leaf mosaic virus,4,Tomato leaf,0.30955255031585693,0.04188016057014465,0.04188016057014465,True
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (24).jpg,Tomato leaf mosaic virus,4,Tomato mold leaf,0.2763447298798126,0.1635608426594232,0.1635608426594232,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (28).jpg,Tomato leaf mosaic virus,4,Tomato leaf yellow virus,0.29431851930830766,0.15341695743084438,0.15341695743084438,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (29).jpg,Tomato leaf mosaic virus,4,Tomato leaf,0.4563042500228423,0.23120348047835995,0.23120348047835995,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (40).jpg,Tomato leaf mosaic virus,4,Tomato leaf mosaic virus,0.25223759850343164,0.25223759850343164,0.25223759850343164,False
+Tomato leaf mosaic virus/Tomato leaf mosaic virus (42).jpg,Tomato leaf mosaic virus,4,Tomato leaf yellow virus,0.2871843331900301,0.10014318861334005,0.10014318861334005,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (1).jpg,Tomato leaf yellow virus,4,Tomato Septoria leaf spot,0.335421220810994,0.30681206281690604,0.30681206281690604,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (12).jpg,Tomato leaf yellow virus,4,Tomato leaf yellow virus,0.8215038625293399,0.8215038625293399,0.8215038625293399,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (19).jpg,Tomato leaf yellow virus,4,Tomato leaf yellow virus,0.6148673301200099,0.6148673301200099,0.6148673301200099,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (23).jpg,Tomato leaf yellow virus,4,Tomato leaf,0.31566062422627295,0.15958204791144445,0.15958204791144445,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (3).jpg,Tomato leaf yellow virus,4,Tomato leaf,0.32151397118619646,0.06117358073573884,0.06117358073573884,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (37).jpg,Tomato leaf yellow virus,4,Tomato leaf,0.39363629725676863,0.10664284527235232,0.10664284527235232,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (46).jpg,Tomato leaf yellow virus,4,Tomato leaf yellow virus,0.21432080705224865,0.21432080705224865,0.21432080705224865,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (54).jpg,Tomato leaf yellow virus,4,Tomato leaf yellow virus,0.6589939606543518,0.6589939606543518,0.6589939606543518,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (6).jpg,Tomato leaf yellow virus,4,Tomato leaf,0.3184627180403923,0.10429054355808878,0.10429054355808878,True
+Tomato leaf yellow virus/Tomato leaf yellow virus (65).jpg,Tomato leaf yellow virus,4,Tomato leaf yellow virus,0.2874007640831486,0.2874007640831486,0.2874007640831486,False
+Tomato leaf yellow virus/Tomato leaf yellow virus (7).jpg,Tomato leaf yellow virus,4,Tomato leaf yellow virus,0.8904843293063534,0.8904843293063534,0.8904843293063534,False
+Tomato mold leaf/Tomato mold leaf (11).jpg,Tomato mold leaf,4,Tomato leaf,0.47658003308640856,0.1601181955658664,0.1601181955658664,False
+Tomato mold leaf/Tomato mold leaf (20).jpg,Tomato mold leaf,4,Tomato leaf,0.5191216104830031,0.04299187479876912,0.04299187479876912,True
+Tomato mold leaf/Tomato mold leaf (22).jpg,Tomato mold leaf,4,Tomato mold leaf,0.5765326621832944,0.5765326621832944,0.5765326621832944,False
+Tomato mold leaf/Tomato mold leaf (27).jpg,Tomato mold leaf,4,Tomato leaf late blight,0.4590420020035933,0.24470774259633052,0.24470774259633052,False
+Tomato mold leaf/Tomato mold leaf (33).jpg,Tomato mold leaf,4,Tomato mold leaf,0.6582896884169952,0.6582896884169952,0.6582896884169952,False
+Tomato mold leaf/Tomato mold leaf (42).jpg,Tomato mold leaf,4,Tomato mold leaf,0.3621536879017911,0.3621536879017911,0.3621536879017911,False
+Tomato mold leaf/Tomato mold leaf (45).jpg,Tomato mold leaf,4,Tomato mold leaf,0.5960373318514253,0.5960373318514253,0.5960373318514253,False
+Tomato mold leaf/Tomato mold leaf (50).jpg,Tomato mold leaf,4,Tomato mold leaf,0.535609575991596,0.535609575991596,0.535609575991596,False
+Tomato mold leaf/Tomato mold leaf (58).jpg,Tomato mold leaf,4,Tomato mold leaf,0.49759212553345517,0.49759212553345517,0.49759212553345517,False
+Tomato mold leaf/Tomato mold leaf (61).jpg,Tomato mold leaf,4,Tomato leaf late blight,0.42873501253053853,0.17099230970817342,0.17099230970817342,False
+Tomato mold leaf/Tomato mold leaf (69).jpg,Tomato mold leaf,4,Tomato mold leaf,0.31847721886991387,0.31847721886991387,0.31847721886991387,False
+Tomato mold leaf/Tomato mold leaf (75).jpg,Tomato mold leaf,4,Tomato Septoria leaf spot,0.4997563925587621,0.09540112254413975,0.09540112254413975,True
+Tomato mold leaf/Tomato mold leaf (78).jpg,Tomato mold leaf,4,Tomato leaf late blight,0.27644046034017594,0.1647195750075004,0.1647195750075004,False
+Tomato mold leaf/Tomato mold leaf (84).jpg,Tomato mold leaf,4,Tomato mold leaf,0.6273755875306527,0.6273755875306527,0.6273755875306527,False
