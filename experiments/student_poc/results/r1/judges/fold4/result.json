@@ -1,0 +1,40 @@
+{
+  "round": "r1",
+  "fold": 4,
+  "n_train": 413,
+  "heldout": {
+    "logloss": 1.1505327317909169,
+    "acc": 0.6213592233009708,
+    "correct": 64,
+    "macro_f1": 0.5623638049257245,
+    "n": 103
+  },
+  "val": {
+    "logloss": 1.0606291266646821,
+    "acc": 0.6140350877192983,
+    "correct": 35,
+    "macro_f1": 0.5436688311688311,
+    "n": 57
+  },
+  "selected_epoch": 55,
+  "epochs_run": 60,
+  "best_val_loss_during_training": 1.0606292486190796,
+  "env": {
+    "tensorflow": "2.21.0",
+    "keras": "3.13.2",
+    "gpu": [
+      "/physical_device:GPU:0",
+      "/physical_device:GPU:1"
+    ],
+    "gpu_name": "Tesla T4\nTesla T4",
+    "kaggle": true
+  },
+  "truncated": false,
+  "minutes": 154.3,
+  "finished": "2026-11-09 13:01",
+  "job": {
+    "kind": "judge",
+    "round": "r1",
+    "fold": "all"
+  }
+}
