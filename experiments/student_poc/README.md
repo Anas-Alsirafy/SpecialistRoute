@@ -74,8 +74,7 @@ Jobs skip work whose results are already in the repo. Re-running a finished job 
 |---|---|---|---|
 | 0 | `selftest` | 3 min | Environment check |
 | 1 | `student r1 A_all seed 42` | 4.2 h (T4, 300 epochs) | **Calibration — DONE 2026-11-06: 0.8465, 41/57, epoch 132 → PASS** |
-| 2–6 | `judge r1 fold 0` … `fold 4` | 15–30 min each | Out-of-fold judges |
-| 7 | `flags r1` | 2 min | cleanlab flags (expect ~25–60 flagged) |
+| 2–7 | `judge r1 fold "all"` | ~2–2.5 h in one commit | 5 out-of-fold judges, each pushed when done; flags (cleanlab) run automatically at the end |
 | 8 | `probe` | 10–15 min | Needed by E_hybrid only |
 | 9 | `student r1 E_hybrid seed 42` | 2.5–4 h | Finishes the AUC seed-42 table |
 | 10–14 | `student r1 C_remove` seeds 42, 123, 2024, 779, 1027 | 2.5–4 h each | Main arm |
