@@ -41,5 +41,13 @@
     "round": "r1",
     "arm": "R_random",
     "seed": 42
-  }
+  },
+  "val_calibration": {
+    "ece": 0.07274946908717456,
+    "brier": 0.4400868297657181,
+    "conf_mean": 0.6226916629039778,
+    "conf_correct": 0.6945600470829993,
+    "conf_wrong": 0.47895489454593476
+  },
+  "val_probs_source": "rescored from saved checkpoint"
 }
