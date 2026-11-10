@@ -110,6 +110,12 @@ Jobs are the same with `"round": "r2"`: judges 0–4, `flags r2`, then C and R s
 
 The calibration run peaked at epoch 132 (AUC teachers: 76–179), so every student run from now on uses **250 epochs** (`STUDENT_EPOCHS` in cell 2), about 3.5 h on a T4. Selection is by minimum val loss, so no result that peaks before 250 changes.
 
+## Calibration (added 2026-11-10, before seeds 2024/779/1027)
+
+Every student run saves `val_probs.npz` and `val_calibration` in `result.json`: ECE (15 bins), Brier, and mean confidence on correct and on wrong predictions. The summary reports them per arm. They are descriptive and not part of the decision rule; they test whether removing flagged images makes the model over-confident.
+
+Runs finished before this change are re-scored from their saved checkpoints. Every job does this automatically at the start, or you can run `{"kind": "rescore"}`. Attach the old notebook versions that hold the checkpoints as inputs (*Add Input → Your Work → this notebook → version*). The re-score is only accepted if it reproduces the stored validation log-loss to within 0.002.
+
 ## Decision rule (pre-registered; also in cell 2)
 
 - **Primary:** mean val log-loss of the arm < mean of A_all **and** < mean of R_random (5 seeds each).
