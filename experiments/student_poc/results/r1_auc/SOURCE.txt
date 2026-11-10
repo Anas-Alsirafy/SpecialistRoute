@@ -1,0 +1,2 @@
+Round 1 judges trained on the AUC GPU (ConvNeXt-Base, 60 epochs, legacy fine-tune callback).
+Imported from v2_TomatoPoC/oof_fold0..4.npz on 2026-11-10; flags recomputed with the same cleanlab call.
