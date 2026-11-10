@@ -1,0 +1,45 @@
+{
+  "round": "r1",
+  "arm": "R_random",
+  "seed": 42,
+  "n_train": 376,
+  "class_counts": {
+    "Tomato Early blight leaf": 41,
+    "Tomato Septoria leaf spot": 74,
+    "Tomato leaf": 34,
+    "Tomato leaf bacterial spot": 56,
+    "Tomato leaf late blight": 63,
+    "Tomato leaf mosaic virus": 22,
+    "Tomato leaf yellow virus": 40,
+    "Tomato mold leaf": 46
+  },
+  "val": {
+    "logloss": 0.8740847371071794,
+    "acc": 0.6666666666666666,
+    "correct": 38,
+    "macro_f1": 0.6398254523254523,
+    "n": 57
+  },
+  "selected_epoch": 130,
+  "epochs_run": 250,
+  "best_val_loss_during_training": 0.8740848898887634,
+  "env": {
+    "tensorflow": "2.21.0",
+    "keras": "3.13.2",
+    "gpu": [
+      "/physical_device:GPU:0",
+      "/physical_device:GPU:1"
+    ],
+    "gpu_name": "Tesla T4\nTesla T4",
+    "kaggle": true
+  },
+  "truncated": false,
+  "minutes": 151.1,
+  "finished": "2026-11-10 10:59",
+  "job": {
+    "kind": "student",
+    "round": "r1",
+    "arm": "R_random",
+    "seed": 42
+  }
+}
